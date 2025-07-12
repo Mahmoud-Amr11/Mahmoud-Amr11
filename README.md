@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -50,6 +50,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br clear="both">
+
+<h3 align="left"></h3>
 
 ###
